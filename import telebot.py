@@ -4,7 +4,7 @@ import time
 from telebot import types #База
 import urllib.request # работа с URLкой
 from bs4 import BeautifulSoup #работа с html
-bot = telebot.TeleBot('5808317487:AAFSdmLIKJm5o-qCj-_YscwCfaG_mOSOJAU')
+bot = telebot.TeleBot('BOT ID')
 s1 = []
 s2 = []
 s3 = []
